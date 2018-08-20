@@ -1763,6 +1763,24 @@ body {
 .cid-qPBBh2LxnP .mbr-section-btn {
   color: #232323;
 }
+.cid-r1iOfYM9HM {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efa7db;
+}
+@media (min-width: 992px) {
+  .cid-r1iOfYM9HM .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-r1iOfYM9HM .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-r1iOfYM9HM .mbr-text {
+  color: #767676;
+}
 .cid-r1isGLJBdV {
   padding-top: 60px;
   padding-bottom: 60px;
