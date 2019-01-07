@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fabulous4L",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 74,
     "versionPublish": "4.7.2",
@@ -10532,35 +10532,6 @@
             "background-color": "@bgColor",
             "@media (min-width: 992px)": {
               ".mbr-figure": {
-                "padding-right": "4rem"
-              }
-            },
-            "@media (max-width: 992px)": {
-              ".mbr-figure": {
-                "padding-bottom": "1rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#232323",
-              "text-align": "center"
-            }
-          },
-          "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/nw-logo-436x436.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Newsweed est le premier magazine d'informations français sur l'actualité légale et mondiale du cannabis.<br>On peut trouver sur leur site internet les nouvelles études sur le cannabis, la légalisation, le lifestyle, les évènements relatant le sujet et toujours avec une dimension objective et informative.&nbsp;<br>Le magazine aborde aussi des débats politiques autour de la plante. Tout plein d’informations qui pourrait changer votre avis sur le sujet ;)<br>Insta: @newsweed</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r5OiQragIx",
-          "_anchor": "content6-1z",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "@media (min-width: 992px)": {
-              ".mbr-figure": {
                 "padding-left": "4rem"
               }
             },
@@ -10606,11 +10577,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"https://www.bourgesenglishschool.fr/\"><img src=\"@PROJECT_PATH@/assets/images/a6a5ec-9e821dbcf3454713bd559c231d665ecf-mv2-d-1588-1587-s-2-436x436.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>The English School !!</b><br><b><br></b> Nouveau et unique à Bourges : THE ENGLISH SCHOOL !!<br>Une école consacrée exclusivement à l’apprentissage de la langue anglaise. La pratique de l'anglais deviendra dorénavant un jeu, pour petits et grands. Avec sourire, sérieux, professionnalisme, partez à la conquète de la langue de Shakespeare, et ce, quelque soit votre âge ou votre niveau.<br><br>Sous forme de cours individuels, collectifs ou de stage, travaillez grammaire et vocabulaire anglais auprès d'une formatrice expérimentée. Chez THE ENGLISH SCHOOL, tout est pensé pour optimiser votre immersion dans l'univers anglais : un espace d’éveil pour enfants avec jeux en anglais et une bibliothèque avec espace lecture.<br><br>Vous pouvez les retrouver au <br>119 rue d'Auron à Bourges <br>et leur téléphoner to speak english au <br>09 81 32 65 18<br><br>https://www.bourgesenglishschool.fr/<br>https://www.facebook.com/bourgesenglishschool/<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "raUisEfjxT",
+          "_anchor": "content6-21",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-21"
+          "_params": {}
         }
       ]
     }
