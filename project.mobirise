@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Fabulous4L",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 74,
+    "uniqCompNum": 79,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -10546,7 +10546,7 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">SIL-LAB Innovations est une startup dans la e-santé qui s’est donnée pour objectif de fournir des services digitaux afin de faciliter, sécuriser, et optimiser les prélèvements sanguins aux domiciles des patients. Notre but est de développer le concept de « laboratoire mobile », en proposant une application smartphone innovante, capable de se connecter à des appareils de diagnostics transportables qui se développent de plus en plus.<br><br>L’application IDELab apporte un gain de qualité et de productivité à tous les acteurs de la chaîne (Patient, infirmier, secrétaire, biologiste…) tout en éliminant drastiquement les non-conformités rencontrées lors de cette phase pré-analytique.<br><br>Notre devise : « Permettre à tous les êtres humains d’être égaux dans le dépistage et le suivi de leur maladie, quel que soit leur zone géographique ou leur état de mobilité ».<br><br>http://www.sil-lab-innovations.com/<br>A télécharger sur l'App Store et Google Play</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/20151007165651-p1-document-dgoq-1-436x120.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">SIL-LAB Innovations est une startup dans la e-santé qui s’est donnée pour objectif de fournir des services digitaux afin de faciliter, sécuriser, et optimiser les prélèvements sanguins aux domiciles des patients. Notre but est de développer le concept de « laboratoire mobile », en proposant une application smartphone innovante, capable de se connecter à des appareils de diagnostics transportables qui se développent de plus en plus.<br><br>L’application IDELab apporte un gain de qualité et de productivité à tous les acteurs de la chaîne (Patient, infirmier, secrétaire, biologiste…) tout en éliminant drastiquement les non-conformités rencontrées lors de cette phase pré-analytique.<br><br>Notre devise : « Permettre à tous les êtres humains d’être égaux dans le dépistage et le suivi de leur maladie, quel que soit leur zone géographique ou leur état de mobilité ».<br><br>A télécharger sur l'App Store et Google Play</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"http://www.sil-lab-innovations.com/\"><img src=\"@PROJECT_PATH@/assets/images/20151007165651-p1-document-dgoq-1-436x120.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5On9wQEH0",
           "_anchor": "content7-20",
           "_protectedParams": [],
@@ -10570,18 +10570,134 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676",
+              "color": "#232323",
               "text-align": "center"
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"https://www.bourgesenglishschool.fr/\"><img src=\"@PROJECT_PATH@/assets/images/a6a5ec-9e821dbcf3454713bd559c231d665ecf-mv2-d-1588-1587-s-2-436x436.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>The English School !!</b><br><b><br></b> Nouveau et unique à Bourges : THE ENGLISH SCHOOL !!<br>Une école consacrée exclusivement à l’apprentissage de la langue anglaise. La pratique de l'anglais deviendra dorénavant un jeu, pour petits et grands. Avec sourire, sérieux, professionnalisme, partez à la conquète de la langue de Shakespeare, et ce, quelque soit votre âge ou votre niveau.<br><br>Sous forme de cours individuels, collectifs ou de stage, travaillez grammaire et vocabulaire anglais auprès d'une formatrice expérimentée. Chez THE ENGLISH SCHOOL, tout est pensé pour optimiser votre immersion dans l'univers anglais : un espace d’éveil pour enfants avec jeux en anglais et une bibliothèque avec espace lecture.<br><br>Vous pouvez les retrouver au <br>119 rue d'Auron à Bourges <br>et leur téléphoner to speak english au <br>09 81 32 65 18<br><br>https://www.bourgesenglishschool.fr/<br>https://www.facebook.com/bourgesenglishschool/<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"https://www.bourgesenglishschool.fr/\"><img src=\"@PROJECT_PATH@/assets/images/a6a5ec-9e821dbcf3454713bd559c231d665ecf-mv2-d-1588-1587-s-2-436x436.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>The English School !!</b><br><b><br></b> Nouveau et unique à Bourges : THE ENGLISH SCHOOL !!<br>Une école consacrée exclusivement à l’apprentissage de la langue anglaise. La pratique de l'anglais deviendra dorénavant un jeu, pour petits et grands. Avec sourire, sérieux, professionnalisme, partez à la conquète de la langue de Shakespeare, et ce, quelque soit votre âge ou votre niveau.<br><br>Sous forme de cours individuels, collectifs ou de stage, travaillez grammaire et vocabulaire anglais auprès d'une formatrice expérimentée. Chez THE ENGLISH SCHOOL, tout est pensé pour optimiser votre immersion dans l'univers anglais : un espace d’éveil pour enfants avec jeux en anglais et une bibliothèque avec espace lecture.<br><br>119 rue d'Auron à Bourges <br>09 81 32 65 18<br><br>https://www.bourgesenglishschool.fr/<br>https://www.facebook.com/bourgesenglishschool/<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "raUisEfjxT",
           "_anchor": "content6-21",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-left": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-top": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            }
+          },
+          "_name": "content7",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>LABBE LAURELLI</b><br><b><br></b>Labbe Laurelli est un jeune cabinet spécialisé dans le conseil, l'AMOA et le pilotage de projets RH et SIRH. 👶<br><br>L&amp;L s'engage auprès de chacun de ses clients pour leur apporter un accompagnement de qualité et de proximité, dans un climat de confiance, sur l'ensemble des SIRH du marché et des domaines RH. 🎓<br>Chez L&amp;L, chaque mission est accueillie cœur de nouveaux challenges et défis à relever !!<br><br>12 rue de Picardie 75003 Paris<br>06 81 56 16 68<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"http://labbe-laurelli.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/labbe-laurelli-logo-200x200.png\" alt=\"Mobirise\" title></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rfks4x4wKY",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content7-22"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"http://www.bcpsearch.com/fr\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/bcp-logo-243x148.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>BCP Executive Search</b><br>BCP Executive Search est un cabinet de c<br>onseil en stratégie humaine et recrutement Parisien. <br>Avec leur approche \"Think out of the box\" , ils accompagnent leurs clients dans leur réflexion sur la stratégie humaine. 🤝 <br>Ils vous conseillent et identifient les talents à recruter tant en France qu'à l'international en adéquation avec votre stratégie, votre organisation et votre culture dans un niveau d'exigence élevé, de confiance et de confidentialité absolue! 🎓<br><br>5 rue du Commandant Rivière, 75008 Paris<br>01 83 62 33 58<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rfktqgUPBX",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-23"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-left": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-top": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            }
+          },
+          "_name": "content7",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>bl institut</b><br><b><br></b>Depuis 2004, bl institut est situé à Sotteville lès rouen est un lieu dédié à l’esthétique et à votre bien être. Ils vous proposent une large gamme de produits de grandes marques telles que Phytomer, OPI, Cinq mondes,Couleur Caramel.  Si vous êtes fatiguée et stressée par la vie active, ressourcez-vous un instant dans ce bel institut.  <br><br>Leur équipe de professionnelles est là pour répondre à vos attentes et à votre bien être.<br><br>59 rue Léon Blum<br>76300 Sotteville lès rouen<br>02 35 62 76 91<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"http://www.bl-institut.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/capture-decran-2019-01-15-a-16.59.48-436x114.png\" alt=\"Mobirise\" title></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rfku3zP0Tu",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content7-25"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"https://www.qosmos.com/\"><img src=\"@PROJECT_PATH@/assets/images/qosmos-logo-355x142.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>QOSMOS</b><b><br></b>La business unit Qosmos DPI d'Enea est leader sur le marché des technologies de classification du trafic IP et d'intelligence réseau utilisées dans les architectures physiques, SDN et NFV. La société fournit des logiciels aux fournisseurs qui intègrent la visibilité des applications en temps réel dans leurs produits pour l'optimisation du trafic, l'enchaînement des services, la qualité de service, l'analyse, la cybersécurité et plus encore. Les clients Qosmos d'Enea bénéficient d'une mise sur le marché rapide et de mises à jour continues des signatures pour leurs produits. En tant que premier fournisseur de logiciels de classification du trafic IP et d'intelligence réseau, Qosmos contribue activement aux projets open source et aux normes internationales, et dessert 75% du marché.<br><br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rfkw5Tri2x",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-26"
         }
       ]
     }
